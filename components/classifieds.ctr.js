@@ -14,7 +14,9 @@
 	$scope.name = {
 		first: "Rua",
 		last: "fdfs"
-	}
+	};
+
+	$scope.message = "Hello, World!";
 
 	});
 })();
